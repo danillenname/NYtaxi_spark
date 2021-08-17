@@ -1,0 +1,6 @@
+target/scala-2.12/classes/csv/yellow_tripdata_2020-01.csv
+.idea
+project
+src/main/resources
+tmp
+target
